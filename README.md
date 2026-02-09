@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Youssef%20Elaichi&fontSize=70&animation=fadeIn&fontAlignY=35" height="200px" width="100%" />
-</p>
-
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40" />
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="50" />
     Hi, I'm Youssef!
   </h1>
   <h3>🚀 Full-Stack Web Developer | Specialized in End-to-End Solutions</h3>
