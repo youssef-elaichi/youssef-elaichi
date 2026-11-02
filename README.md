@@ -49,5 +49,12 @@
 | :--- | :--- |
 | **Automation** | <img src="https://playwright.dev/img/playwright-logo.svg" width="20" style="vertical-align: middle;" /> **Playwright**, **BeautifulSoup**, **Selenium** |
 | **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="vertical-align: middle;" /> JS (ES6+), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" style="vertical-align: middle;" /> Bootstrap, HTML5, CSS3 |
-| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle;" /> **Python (Django/Flask)**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" style="vertical-align: middle;" /> Node.js |
-| **Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" style="vertical-align: middle;" /> MySQL, <img src="
+| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align: middle;" /> **Python**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="20" style="vertical-align: middle;" /> Laravel, C |
+| **Database & Cloud** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" style="vertical-align: middle;" /> MySQL, Merise (MCD/MLD), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" style="vertical-align: middle;" /> Docker/Podman |
+| **Tools & OS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" style="vertical-align: middle;" /> Git & GitHub, Linux (Fedora Silverblue) |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
